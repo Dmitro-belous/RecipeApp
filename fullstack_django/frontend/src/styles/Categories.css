@@ -1,0 +1,12 @@
+table.categories {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h3 {
+    background-color: grey;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

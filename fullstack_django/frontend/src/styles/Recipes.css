@@ -1,0 +1,10 @@
+table.categories {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.linkCat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
